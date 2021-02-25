@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.progress-label{
+    float: left;
+    margin-right: 0.7em;
+}
+.fa-align-center{
+    padding: 2%;
+    font-size: 130%;
+}
+.progress{
+    margin-top: 2%;
+}
+.fa-check{
+    color: green;
+}
+.checkmark {
+    color: gray;
+}
